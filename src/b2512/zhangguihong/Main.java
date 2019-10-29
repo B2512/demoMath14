@@ -1,6 +1,6 @@
 package b2512.zhangguihong;
 
-public class zhangguihong {
+public class Main {
     public static void main(String[] args) {
         int height = 20;
         int width = 20;
